@@ -1,0 +1,100 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Hambúrguer de Carne",
+      "description": "Delicioso hambúrguer de carne bovina 100%.",
+      "price": 10.99,
+      "thumbnail": "https://img.freepik.com/fotos-gratis/hamburguer-frontal-com-vegetais-e-carne_23-2148868238.jpg?w=996&t=st=1707702996~exp=1707703596~hmac=c69ac28ff2a664e16b806a4dda60fdad4803b9adb43068e95ca3a3f3fc5de25f",
+      "flavor": "carne"
+    },
+    {
+      "id": 2,
+      "title": "Hambúrguer de Frango",
+      "description": "Hambúrguer suculento de frango grelhado.",
+      "price": 9.99,
+      "thumbnail": "https://img.freepik.com/fotos-gratis/sanduiche-com-hamburguer-de-frango-tomate-e-alface_2829-16577.jpg?size=626&ext=jpg&uid=R107211064&ga=GA1.1.673987430.1706642652&semt=ais",
+      "flavor": "frango"
+    },
+    {
+      "id": 3,
+      "title": "Hambúrguer Vegetariano",
+      "description": "Opção vegetariana com hambúrguer de grão de bico.",
+      "price": 11.99,
+      "thumbnail": "https://img.freepik.com/fotos-gratis/hamburguer-de-frango-de-vista-lateral-com-batatas-fritas-no-quadro-negro_140725-13931.jpg?size=626&ext=jpg&uid=R107211064&ga=GA1.1.673987430.1706642652&semt=ais",
+      "flavor": "vegetariano"
+    },
+    {
+      "id": 4,
+      "title": "Hambúrguer Duplo",
+      "description": "Dois hambúrgueres deliciosos em um único sanduíche.",
+      "price": 12.99,
+      "thumbnail": "https://img.freepik.com/fotos-gratis/closeup-tiro-de-hamburguer-saboroso-fresco_181624-35640.jpg?size=626&ext=jpg&uid=R107211064&ga=GA1.1.673987430.1706642652&semt=ais",
+      "flavor": "carne"
+    },
+    {
+      "id": 5,
+      "title": "Hambúrguer Picante",
+      "description": "Hambúrguer com um toque de pimenta.",
+      "price": 10.99,
+      "thumbnail": "https://img.freepik.com/fotos-gratis/carne-preta-hamburguer-alface-tomate-pepino-queijo-vista-lateral_141793-15447.jpg?w=740&t=st=1707703167~exp=1707703767~hmac=4b064daa7049bcdbaf0f3afcdd1c26fc7b97b8358aa9fc34a8346ea72470ec06",
+      "flavor": "carne"
+    },
+    {
+      "id": 6,
+      "title": "Hambúrguer de Salmão",
+      "description": "Saboroso hambúrguer de salmão grelhado.",
+      "price": 13.99,
+      "thumbnail": "https://img.freepik.com/fotos-gratis/um-hamburguer-saboroso-de-vista-frontal-juntamente-com-azeitonas-queijo-tomate-e-salada-verde-dentro-de-prato-redondo_140725-11661.jpg?size=626&ext=jpg&uid=R107211064&ga=GA1.1.673987430.1706642652&semt=ais",
+      "flavor": "peixe"
+    },
+    {
+      "id": 7,
+      "title": "Hambúrguer com Cogumelos",
+      "description": "Hambúrguer recheado com cogumelos frescos.",
+      "price": 11.99,
+      "thumbnail": "https://img.freepik.com/fotos-gratis/vista-frontal-de-sanduiche-com-salada_23-2148640167.jpg?size=626&ext=jpg&uid=R107211064&ga=GA1.1.673987430.1706642652&semt=ais",
+      "flavor": "vegetariano"
+    },
+    {
+      "id": 8,
+      "title": "Hambúrguer de Cordeiro",
+      "description": "Delicioso hambúrguer feito com cordeiro.",
+      "price": 13.99,
+      "thumbnail": "https://img.freepik.com/fotos-gratis/doner-com-carne-batatas-e-picles_140725-2076.jpg?size=626&ext=jpg&uid=R107211064&ga=GA1.1.673987430.1706642652&semt=ais",
+      "flavor": "carne"
+    },
+    {
+      "id": 9,
+      "title": "Hambúrguer de Camarão",
+      "description": "Hambúrguer com sabor intenso de camarão.",
+      "price": 14.99,
+      "thumbnail": "https://img.freepik.com/fotos-gratis/hamburguer-suculento-com-nuggets-de-frango-em-massa_140725-9911.jpg?size=626&ext=jpg&uid=R107211064&ga=GA1.1.673987430.1706642652&semt=ais",
+      "flavor": "peixe"
+    },
+    {
+      "id": 10,
+      "title": "Hambúrguer de Picanha",
+      "description": "Hambúrguer suculento feito com picanha.",
+      "price": 12.99,
+      "thumbnail": "https://img.freepik.com/fotos-gratis/foto-vertical-de-um-delicioso-hamburguer-em-uma-placa-de-madeira-com-um-fundo-preto_181624-29765.jpg?size=626&ext=jpg&uid=R107211064&ga=GA1.1.673987430.1706642652&semt=ais",
+      "flavor": "carne"
+    },
+    {
+      "id": 11,
+      "title": "Hambúrguer de Peru",
+      "description": "Hambúrguer feito com carne de peru magra.",
+      "price": 11.99,
+      "thumbnail": "https://img.freepik.com/fotos-gratis/sanduiche-de-queijo-pao-salada-de-carne_1172-269.jpg?size=626&ext=jpg&uid=R107211064&ga=GA1.1.673987430.1706642652&semt=ais",
+      "flavor": "carne"
+    },
+    {
+      "id": 12,
+      "title": "Hambúrguer Vegan",
+      "description": "Opção vegana com hambúrguer de proteína de soja.",
+      "price": 10.99,
+      "thumbnail": "https://img.freepik.com/fotos-gratis/sanduiche-com-hamburguer-de-frango-tomate-e-alface_2829-16577.jpg?size=626&ext=jpg&uid=R107211064&ga=GA1.1.673987430.1706642652&semt=ais",
+      "flavor": "vegetariano"
+    }
+  ]
+}
