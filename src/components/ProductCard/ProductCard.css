@@ -29,11 +29,11 @@
 }
 
 .card__title {
-  font-size: 15px;
+  font-size: 18px;
   text-align: center;
   color: rgb(0, 0, 0);
   line-height: 1.5;
-  font-weight: 500;
+  font-weight: bolder;
 }
 
 .button__add-cart {
@@ -61,4 +61,15 @@
 
 .product-card:hover .button__add-cart {
   display: flex;
+}
+
+.card__image {
+  max-width: 300px;
+  height: 300px;
+}
+
+.card__description {
+  text-align: center;
+  color: #e60a0a;
+  padding-top: 5px;
 }
